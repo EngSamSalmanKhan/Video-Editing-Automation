@@ -1,0 +1,7 @@
+.DS_Store
+videos/
+files/logs/
+*.log
+*.mp4
+*.jpg
+*.webp
